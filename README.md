@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science Engineering from SRMIST.
 - 💞️ I’m looking to collaborate on various projects on Java / C# based GUI applications 
 - 📫 How to reach me at pj8207@srmist.edu.in
+- Upcoming project - Hausin Mobile Application ( December 2021 ) 
 
 <!---
 piyushjoshi11/piyushjoshi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
